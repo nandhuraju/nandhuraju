@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Nandhu Raju</h1>
-<h3 align="center">Civil Engineer Turned Full-Stack Blockchain Developer | Passionate about Building Innovative Solutions in Web and Blockchain Technologies</h3>
+<h3 align="center">Civil Engineer Turned Full-Stack,Blockchain Developer | Passionate about Building Innovative Solutions in Web and Blockchain Technologies</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
