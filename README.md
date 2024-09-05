@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I am Nandhu Raju</h1>
 <h3 align="center">Civil Engineer Turned Full-Stack Blockchain Developer | Passionate about Building Innovative Solutions in Web and Blockchain Technologies</h3>
 
