@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am Nandhu Raju</h1>
 <h3 align="center">Civil Engineer Turned Full-Stack Blockchain Developer | Passionate about Building Innovative Solutions in Web and Blockchain Technologies</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie-animation/engineer-working-on-laptop-6495320](https://iconscout.com/lottie-animation/software-engineer-developing-website-6369145](https://iconscout.com/lottie-animation/working-software-engineer-6369148)">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/working-software-engineer-6369148">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhuraju&label=Profile%20views&color=0e75b6&style=flat" alt="nandhuraju" /> </p>
 
